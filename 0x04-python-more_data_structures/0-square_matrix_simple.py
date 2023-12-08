@@ -10,5 +10,4 @@ def square_matrix_simple(matrix=[]):
     You are allowed to use regular loops, map, etc.
     """
     new_matrix = [[elem**2 for elem in inner] for inner in matrix]
-
     return new_matrix 
