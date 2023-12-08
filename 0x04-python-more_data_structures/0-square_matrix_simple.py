@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 def square_matrix_simple(matrix=[]):
     """computes the square value of all integers of a matrix
     Matrix is a 2 dimensional array
